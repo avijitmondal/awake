@@ -1,0 +1,2 @@
+# awake
+keep system awake
